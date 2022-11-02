@@ -5,7 +5,7 @@ int main () {
 	float x, a, b, c, y;
 	char F, S, L;
 	
-	/*printf("number : ");
+	printf("number : ");
 	scanf("%d", &n);
 	if (n%2==0 && n%3==0){
 		printf("your num can devided with 2 || 3\n");
@@ -49,7 +49,7 @@ int main () {
 	scanf("%f", &x);
 	x *= 10;
 	Nn = (int)(x);
-	printf("%d\n", Nn);*/
+	printf("%d\n", Nn);
 	
 	printf("3number : ");
 	scanf("%f, %f, %f", &a, &b, &c);
